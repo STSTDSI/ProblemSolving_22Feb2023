@@ -1,22 +1,22 @@
 import random
 
 def guess_number():
-    x = int(input(f'Please input number that duration of your number :between 1 to : '))
+    x = int(input(f'Please input an integer for the upper bound of your guesses (>1): '))
     random_num = random.randint(1,x)
     guess = 0
     cnt=0
     while guess!=random_num:
-        guess=int(input(f'Guess a number between 1 and {x}: '))
+        guess=int(input(f'Guess an integer between 1 and {x}: '))
         if guess<random_num:
-            print('Oh sorry, guess again. Your number is low, guess ...')
+            print('Oh sorry, guess again. Your number is low. Next guess? ')
         elif guess>random_num:
-            print('Oh sorry, guess again. Your number is high, guess ...')
+            print('Oh sorry, guess again. Your number is high. Next guess? ')
         cnt=cnt+1
     
-    print(f'Yesss, congrate, You have guessed the number {random_num} correctly!!, your guess after {cnt} times')
+    print(f'Yesss, congratulations! You have guessed the number {random_num} correctly in {cnt} guesses!')
 
 def computer_guess():
-    x = int(input(f'Please input number that duration of your number :between 1 to : '))
+    x = int(input(f'Please input an integer for the upper bound of your guesses (>1): '))
     low = 1
     high = x
     answer = ''
@@ -33,6 +33,6 @@ def computer_guess():
             low = guess + 1
         cnt=cnt+1
 
-    print(f'Yesss,The computer guessed your number , {guess}, correctly after {cnt} times')   
+    print(f'Yesss, the computer guessed your number, {guess}, correctly after {cnt} attempts.')   
 
 guess_number()
