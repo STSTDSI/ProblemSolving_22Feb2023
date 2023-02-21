@@ -13,11 +13,14 @@ we recomand you to use these resource to improve your coding skill:\
 ---
 - Clone the project file from the github repository: 
 - Change directory to the project directory  i.e. ProblemSolving_22Feb2023
+    
     cd ProblemSolving_22Feb2023
 
-To install the dependencies 
+To install the dependencies: 
 - Python3
-    pip3 install -r requirements.txt 
+    
+	pip3 install -r requirements.txt 
 - Python2
-    pip install -r requirements.txt
+    
+	pip install -r requirements.txt
 
