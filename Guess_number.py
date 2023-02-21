@@ -21,7 +21,7 @@ def computer_guess():
     high = x
     answer = ''
     cnt =0
-    print("Pick a number (and keep it a secret from the computer!) and it will try to guess.")
+    print("Pick a number in that range (and keep it a secret!) and the computer will try to guess.")
     while answer != 'c':
         if low != high:
             guess = random.randint(low, high)
