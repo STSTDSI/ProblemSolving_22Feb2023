@@ -21,6 +21,7 @@ def computer_guess():
     high = x
     answer = ''
     cnt =0
+    print("Pick a number (and keep it a secret from the computer!) and it will try to guess.")
     while answer != 'c':
         if low != high:
             guess = random.randint(low, high)
@@ -35,4 +36,5 @@ def computer_guess():
 
     print(f'Yesss, the computer guessed your number, {guess}, correctly after {cnt} attempts.')   
 
-guess_number()
+#guess_number()
+computer_guess()
