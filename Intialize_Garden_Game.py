@@ -2,7 +2,6 @@ import pygame
 import sys
 import os
 from pygame.locals import *
-from pygame.locals import ( K_UP, K_DOWN, K_LEFT, K_RIGHT, K_ESCAPE, KEYDOWN, QUIT,)
 
 pygame.init()
 clock = pygame.time.Clock()
