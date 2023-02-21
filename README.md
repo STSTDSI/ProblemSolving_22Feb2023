@@ -10,9 +10,8 @@ we recomand you to use these resource to improve your coding skill:\
 [Computer Programming Problems](https://mathschallenge.net/links/programming)
 
 # Setup
----
-- Clone the project file from the github repository: 
-- Change directory to the project directory  i.e. ProblemSolving_22Feb2023
+- Clone this project directory on your local machine. 
+- On your local machine, change directory to the project directory  i.e. ProblemSolving_22Feb2023.
     
     ```cd ProblemSolving_22Feb2023```
 
