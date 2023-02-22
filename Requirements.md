@@ -19,7 +19,7 @@ You are now set up! You can try the following command to verify that the library
 Run this in bash:
 
 ```
-$ cd /home/$USER/miniconda/lib  # Replace $ENV with the name of your conda environment.
+$ cd /home/$USER/anaconda/lib  # Replace $ENV with the name of your conda environment and anaconda with miniconda3 if it is what you have
 $ mkdir backup  # Create a new folder to keep the original libstdc++
 $ mv libstd* backup  # Put all libstdc++ files into the folder, including soft links
 $ cp /usr/lib/x86_64-linux-gnu/libstdc++.so.6  ./ # Copy the c++ dynamic link library of the system here
@@ -32,7 +32,7 @@ $ ln -s libstdc++.so.6 libstdc++.so.6.0.19
 Run this in bash:
 
 ```
-$ cd /home/$USER/miniconda/envs/$ENV/lib  # Replace $ENV with the name of your conda environment.
+$ cd /home/$USER/anaconda/envs/$ENV/lib  # Replace $ENV with the name of your conda environment. # Replace anaconda with miniconda3 if it is what you have
 $ mkdir backup  # Create a new folder to keep the original libstdc++
 $ mv libstd* backup  # Put all libstdc++ files into the folder, including soft links
 $ cp /usr/lib/x86_64-linux-gnu/libstdc++.so.6  ./ # Copy the c++ dynamic link library of the system here
