@@ -13,7 +13,7 @@ A basic understanding of computation thus provides benefits similar to a basic k
 
 ## Motivation of the workshop
 
- patch-1
+
 ## Resources
 We recommand the following resources to improve your coding skill:\
 [Computer Programming Problems](https://mathschallenge.net/links/programming)\
