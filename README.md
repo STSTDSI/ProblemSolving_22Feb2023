@@ -13,8 +13,23 @@ A basic understanding of computation thus provides benefits similar to a basic k
 
 ## Motivation of the workshop
 
+ patch-1
 ## Resources
 We recommand the following resources to improve your coding skill:\
 [Computer Programming Problems](https://mathschallenge.net/links/programming)\
 [Think Like A Programmer](https://www.pdfdrive.com/think-like-a-programmer-an-introduction-to-creative-problem-solving-e156859116.html)
+# Setup
+- Clone this project directory on your local machine. 
+- On your local machine, change directory to the project directory  i.e. ProblemSolving_22Feb2023.
+    
+    ```cd ProblemSolving_22Feb2023```
+
+To install the dependencies: 
+- Python3
+    
+	```pip3 install -r requirements.txt``` 
+- Python2
+    
+	```pip install -r requirements.txt```
+  main
 
