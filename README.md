@@ -11,6 +11,7 @@ A basic understanding of computation thus provides benefits similar to a basic k
 
 [In our second event](https://stsquared.github.io/events/2023/02/20/second-event.html) as the group "She and They do Science and Tech", we organise a workshop focused on helping participants get comfortable with “thinking like a programmer” and use hands-on exercises to explain the principles of problem-solving, computational thinking, and algorithmic.
 
+
 ## Resources
 We recommand the following resources to improve your coding skill:\
 [Computer Programming Problems](https://mathschallenge.net/links/programming)\
@@ -29,4 +30,5 @@ To install the dependencies:
 - Python2
     
 	```pip install -r requirements.txt```
+  
 
