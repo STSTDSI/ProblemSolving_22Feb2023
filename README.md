@@ -31,5 +31,4 @@ To install the dependencies:
 - Python2
     
 	```pip install -r requirements.txt```
-  main
 
