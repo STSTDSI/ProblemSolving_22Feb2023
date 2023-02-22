@@ -11,14 +11,12 @@ A basic understanding of computation thus provides benefits similar to a basic k
 
 [In our second event](https://stsquared.github.io/events/2023/02/20/second-event.html) as the group "She and They do Science and Tech", we organise a workshop focused on helping participants get comfortable with “thinking like a programmer” and use hands-on exercises to explain the principles of problem-solving, computational thinking, and algorithmic.
 
-## Motivation of the workshop
-
-
 ## Resources
 We recommand the following resources to improve your coding skill:\
 [Computer Programming Problems](https://mathschallenge.net/links/programming)\
 [Think Like A Programmer](https://www.pdfdrive.com/think-like-a-programmer-an-introduction-to-creative-problem-solving-e156859116.html)
-# Setup
+
+## Setup
 - Clone this project directory on your local machine. 
 - On your local machine, change directory to the project directory  i.e. ProblemSolving_22Feb2023.
     
