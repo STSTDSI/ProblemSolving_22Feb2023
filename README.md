@@ -15,7 +15,7 @@ A basic understanding of computation thus provides benefits similar to a basic k
 ## Resources
 We recommand the following resources to improve your coding skill:\
 [Computer Programming Problems](https://mathschallenge.net/links/programming)\
-[Think Like A Programmer](https://www.pdfdrive.com/think-like-a-programmer-an-introduction-to-creative-problem-solving-e156859116.html)
+[Think Like A Programmer](https://www.pdfdrive.com/think-like-a-programmer-an-introduction-to-creative-problem-solving-e156859116.html)\
 [Learning Python](https://learnpython.org)
 
 ## Setup
