@@ -24,6 +24,7 @@ First, follow the setup instructions below, and then start trying to code the ex
 
 ### Exercise 1: Guess_number.py
 a) Write a guessing game, where the computer has to find a number you picked. You will need to help the computer by telling the range in which the number you picked is (e.g. if you picked "86", you can tell the computer that the value is comprised between 0 and 150). Then, you will reply to the computer guesses by "too high" or "too low", until it finds the number.
+
 b) Write a guessing game, where the computer picks a random number (without you knowing it), and you have to guess the number. You will guess numbers, and the computer will tell you whether it is too high, or too low, or exact!
 
 ### Exercise 2: First_Basic_Game.py
