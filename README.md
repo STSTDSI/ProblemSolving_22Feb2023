@@ -14,18 +14,21 @@ A basic understanding of computation thus provides benefits similar to a basic k
 ## Workshop material
 Two powerpoint presentations are available in this repository. Please go through them before attempting the exercises. They will give you the principles to know on how to solve a problem in a methodic way:
 
-1. Introduction_to_problem_solving.pptx
+1. [Introduction_to_problem_solving.pptx](https://github.com/STSTDSI/ProblemSolving_22Feb2023/blob/main/Introduction_to_problem_solving.pptx)
 	
-2. problem_solving_through_algorithms.pptx
+2. [problem_solving_through_algorithms.pptx](https://github.com/STSTDSI/ProblemSolving_22Feb2023/blob/main/problem_solving_through_algorithms.pptx)
 
 ## Exercises
 This repository contains three different coding exercises for you to try (the answers are provided, so try to code them without looking at first).
 First, follow the setup instructions below, and then start trying to code the exercises!
 
 ### Exercise 1: Guess_number.py
-
+a) Write a guessing game, where the computer has to find a number you picked. You will need to help the computer by telling the range in which the number you picked is (e.g. if you picked "86", you can tell the computer that the value is comprised between 0 and 150). Then, you will reply to the computer guesses by "too high" or "too low", until it finds the number.
+b) Write a guessing game, where the computer picks a random number (without you knowing it), and you have to guess the number. You will guess numbers, and the computer will tell you whether it is too high, or too low, or exact!
 
 ### Exercise 2: First_Basic_Game.py
+
+Using the [PyGame library](https://www.pygame.org/docs/), display in a window a square with white white background and a solid blue circle in the center. You can play around with sizes, colors, shapes, flips. Don't forget to make sure to exit the game when the participant closes the window. This game will help you search for information and teach you how to use an external library.
 
 ### Exercise 3: Intialize_Garden_Game.py
 
