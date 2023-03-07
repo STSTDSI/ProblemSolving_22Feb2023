@@ -31,7 +31,6 @@ b) Write a guessing game, where the computer picks a random number (without you 
 
 Using the [PyGame library](https://www.pygame.org/docs/), display in a window a square with white white background and a solid blue circle in the center. You can play around with sizes, colors, shapes, flips. Don't forget to make sure to exit the game when the participant closes the window. This game will help you search for information and teach you how to use an external library.
 
-### Exercise 3: Intialize_Garden_Game.py
 
 ## Setup
 - Make sure you have Python3 installed
